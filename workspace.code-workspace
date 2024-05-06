@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.condaPath": "C:\\Users\\KReker\\AppData\\Local\\anaconda3\\Scripts\\conda-script.py",
+    	"python.defaultInterpreterPath": "C:\\Users\\KReker\\AppData\\Local\\anaconda3\\python.exe",
+    	"python.experiments.optInto": [
+        "pythonTerminalEnvVarActivation"
+    ],
+    	"python.pythonPath": "C:\\Users\\KReker\\AppData\\Local\\anaconda3\\python.exe",
+    	"python.terminal.activateEnvInCurrentTerminal": true,
+    	"python.terminal.activateEnvironment": true,
+    	"workbench.colorTheme": "Material",
+    	"workbench.startupEditor": "none",
+    	"workbench.iconTheme": "material-icon-theme"}
+}
